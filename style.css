@@ -1,0 +1,16 @@
+body{
+    background-color:lightgreen;
+    font-family:Arial;
+}
+
+h1{
+    color:darkgreen;
+}
+a{
+    backgrount-color:blue;
+    color:white;
+    padding:10px;
+    text_decoration:none;
+    margin-right:20px;
+    font-size:18px;
+}
